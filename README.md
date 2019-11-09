@@ -55,7 +55,23 @@ First ensure you are in a new and empty directory.
     // ensure you are inside the client directory when running this
     npm run build
     ```
+9. IPFS CONFIG
 
+"HTTPHeaders": {
+			"Access-Control-Allow-Credentials": [
+				"true"
+			],
+			"Access-Control-Allow-Methods": [
+				"PUT",
+				"GET",
+				"POST"
+			],
+			"Access-Control-Allow-Origin": [
+				"*"
+			]
+		}
+      
+      
 ## FAQ
 
 * __How do I use this with the Ganache-CLI?__
