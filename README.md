@@ -56,22 +56,22 @@ First ensure you are in a new and empty directory.
     npm run build
     ```
 9. IPFS CONFIG
-```Json
+	```Json
 
-	"HTTPHeaders": {
-				"Access-Control-Allow-Credentials": [
-					"true"
-				],
-				"Access-Control-Allow-Methods": [
-					"PUT",
-					"GET",
-					"POST"
-				],
-				"Access-Control-Allow-Origin": [
-					"*"
-				]
-			}
-		```
+		"HTTPHeaders": {
+					"Access-Control-Allow-Credentials": [
+						"true"
+					],
+					"Access-Control-Allow-Methods": [
+						"PUT",
+						"GET",
+						"POST"
+					],
+					"Access-Control-Allow-Origin": [
+						"*"
+					]
+				}
+	```
       
       
 ## FAQ
