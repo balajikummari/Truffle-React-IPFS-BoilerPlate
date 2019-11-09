@@ -72,16 +72,7 @@ First ensure you are in a new and empty directory.
 					]
 				}
 	```
-10. Other Dependecies 
-1.	NodeJS   : Download 
-2.	Yarn      :  Download
-3.	Ganache : Download 
-4.	VS Code  : Download
-5.	IPFS         :  Download
-6.	GIT          : Download
-7.	Meta Mask : Add to Chrome [open link in New tab] 
-8.	Open Command Prompt : copy and run the below command in cmd
-Yarn global add react@^16.6.3  react-dom@^16.6.3 react-scripts@2.1.1 web3@^1.0.0-beta.37 truffle ipfs-http-client
+
 
       
 ## FAQ
